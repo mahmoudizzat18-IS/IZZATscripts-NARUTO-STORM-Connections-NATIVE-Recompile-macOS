@@ -5,7 +5,9 @@ A one-file Mac app that builds **Naruto x Boruto: Ultimate Ninja Storm Connectio
 The builder is attached to the [latest release](../../releases/latest) as `STORM-Connections-Builder.zip`.
 
 > You must supply your own legally dumped game files and your own console keys. None are included.
-
+![Builder](https://github.com/mahmoudizzat18-IS/IZZATscripts-Connections-Builder/blob/main/Builder.png?raw=true)
+![Graphics](https://github.com/mahmoudizzat18-IS/IZZATscripts-Connections-Builder/blob/main/Graphic%20Option.png?raw=true)
+![Controller](https://github.com/mahmoudizzat18-IS/IZZATscripts-Connections-Builder/blob/main/Controller%20Option.png?raw=true)
 ## Requirements
 
 | Need | Details |
